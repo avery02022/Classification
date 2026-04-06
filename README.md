@@ -27,7 +27,7 @@
 -  Impact: Reduced reporting latency to near-zero, empowering leadership with Real-time Profitability Mapping and evidence-based growth levers.
 -  Strategic Pivot: Beyond visualization, I am prepared to deploy a Real-time ROAI (Return on AI) Dashboard for your organization, mapping GPU burn rates against tangible business value creation.
 
-  [🔗 Interactive Experience example](https://public.tableau.com/app/profile/avery02022/viz/ExecutiveOverview_16940720074440/ExecutiveOverview)
+    [🔗 Interactive Experience Example](https://public.tableau.com/app/profile/avery02022/viz/ExecutiveOverview_16940720074440/ExecutiveOverview)
 
 
 ##  4. Operational Integrity: Mission-Critical Risk Classification
@@ -35,4 +35,4 @@
 -  Impact: Minimized Regulatory Exposure and human error costs through standardized, high-precision automated workflows.
 -  Strategic Pivot: This rigorous validation logic is the "Secret Sauce" for my Compliance Guardrail System, ensuring your GenAI deployments strictly adhere to  enterprise security policies and industry regulations without exception.
 
-  [🔗  Decision Tree Example](https://github.com/avery02022/Classification/blob/main/Bank_Predicting_Customer_Churn.ipynb#:~:text=Proper_Drug_Decision_Decision_Trees.ipynb) 
+    [🔗  Decision Tree Example](https://github.com/avery02022/Classification/blob/main/Bank_Predicting_Customer_Churn.ipynb#:~:text=Proper_Drug_Decision_Decision_Trees.ipynb) 
