@@ -22,7 +22,7 @@
 
 
 
-## Executive Intelligence: Single Source of Truth (SSOT) BI
+## 3. Executive Intelligence: Single Source of Truth (SSOT) BI
 -  The Blueprint: Architected a 360-degree Tableau Ecosystem to collapse data silos and accelerate strategic agility.
 -  Impact: Reduced reporting latency to near-zero, empowering leadership with Real-time Profitability Mapping and evidence-based growth levers.
 -  Strategic Pivot: Beyond visualization, I am prepared to deploy a Real-time ROAI (Return on AI) Dashboard for your organization, mapping GPU burn rates against tangible business value creation.
